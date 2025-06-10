@@ -84,7 +84,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ### 📧 Contato
 
 Desenvolvido por **destiny7 - Vinicius**
-Email: \[[seu.email@example.com](mailto:seu.email@example.com)]
-LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)
+
 
 
